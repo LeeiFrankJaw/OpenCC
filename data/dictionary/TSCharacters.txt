@@ -4430,7 +4430,7 @@
 # @tofu-risk: not covered by PingFang/Source Han baseline: 𪠡 U+2A821
 𠬙	𠬙 𪠡
 # @tofu-risk: not covered by PingFang/Source Han baseline: 𫪄 U+2BA84
-𠼤	𠼤 𫪄
+𠼤	𫪄
 # @tofu-risk: not covered by PingFang/Source Han baseline: 𪠺 U+2A83A
 𠽃	𠽃 𪠺
 # @tofu-risk: not covered by PingFang/Source Han baseline: 𪜎 U+2A70E
